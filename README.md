@@ -1,40 +1,7 @@
-
-## About Laravel
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## GROUP 28 
 
 
+## Mathematics Challenge 
 
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the Laravel documentation
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the Code of Conduct
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The International Education Services is organizing a mathematics competition for primary school children all  over the country. All pupils in registered primary schools are eligible to take part in the competition. The  schools are uploaded into the system by an administrator indicating the name, district, school registration  number, email of representative and name of representative. These representatives are normally validated  before being registered into the system. A registered administrator uploads questions and answers into the  web system. If a challenge is to consist of 10 questions, 100 questions should be uploaded such that for each  attempt, the 10 questions are selected randomly from the 100 questions. The set questions are picked from  an excel document (questions.xlxs) and they are accompanied by answers with accompanying marks from another excel document (answers.xlxs) for the corresponding questions. The two excel documents are  uploaded into the web system by the administrator. In order to open the competition, the administrator sets  parameters including the date when the challenge will be opened and closed, the duration of the challenge  will take, how many questions will be presented. As long as the dates are valid, the participants can log in and attempt the assignment. At the close of the challenge, a report of answers for all attempted questions  are sent to all participants and the first two winners are recognized on the website. Each participant is  automatically sent an email providing them a PDF report of the report of right answers. 
+For a pupil to participate in the competition, they should register using a command line interface. Before one  can register, they are presented with a menu of instructions including
